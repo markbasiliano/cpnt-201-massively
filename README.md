@@ -9,3 +9,7 @@
 - [Elements Page](/generic.html)
 - [Information Page](/README.txt)
 - [LICENSE](/LICENSE.txt)
+
+### Attributions
+
+- [Google - deadpool](google.com)
